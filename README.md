@@ -10,4 +10,6 @@
 [正式版:v1.0.0wiki教程](https://github.com/koponat/klanti-fous/wiki/%E6%AD%A3%E5%BC%8F%E7%89%88:v1.0.0)
 [正式版:v1.0.0下载](https://github.com/koponat/klanti-fous/releases/tag/v1.0.0)
 
+————————————————————————————————————————————
+
 # [开发者版本-点击查看wiki](https://github.com/koponat/klanti-fous/wiki)
