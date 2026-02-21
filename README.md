@@ -1,2 +1,2 @@
 # Kanti-Fous
-A top-level helper tool for querying domain names on the Internet.
+此游戏仅为对mac os用户设计,专门折磨人的,应为你永远无法做到用左手控制这个游戏的AWSD(上下左右)
